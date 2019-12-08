@@ -14,7 +14,8 @@
 
 Bir web sitesi geliştirmek istediğinizde, maliyet ve zaman arasında gidip gelirsiniz. Bu iki parametre projenin kapsam ve büyüklüğü ile ilişkilidir. Geliştirmenin tüm aşamalarını ortaya çıkarmak için bir zaman planına ihtiyaç duyarsınız. Bu zaman planına görevler atayacak ve projenin kilometre taşlarını belirleyeceksiniz. Bu yöntem proje teslimatlarını zamanında yerine getirmenizi sağlayacak en iyi yöntemdir. Bu amaçla kullanacağınız şablon bir proje planı aşağıdaki gibidir:
 
-https://github.com/djangoturkey/istanbul/blob/master/dosyalar/images/1.png
+[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://github.com/djangoturkey/istanbul/blob/master/dosyalar/images/1.png)
+
 
 ## **Web Sitesi Yaşam Döngüsü**
 
