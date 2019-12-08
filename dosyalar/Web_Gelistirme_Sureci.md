@@ -13,11 +13,9 @@
 ## **Web Sitesi Geliştirme Zaman Planı**
 
 Bir web sitesi geliştirmek istediğinizde, maliyet ve zaman arasında gidip gelirsiniz. Bu iki parametre projenin kapsam ve büyüklüğü ile ilişkilidir. Geliştirmenin tüm aşamalarını ortaya çıkarmak için bir zaman planına ihtiyaç duyarsınız. Bu zaman planına görevler atayacak ve projenin kilometre taşlarını belirleyeceksiniz. Bu yöntem proje teslimatlarını zamanında yerine getirmenizi sağlayacak en iyi yöntemdir. Bu amaçla kullanacağınız şablon bir proje planı aşağıdaki gibidir:
-
-
-![Sablon Proje](/images/1.png)
-
-https://github.com/djangoturkey/istanbul/blob/master/dosyalar/images/1.png)
+<div> 
+<img src="https://raw.githubusercontent.com/djangoturkey/istanbul/master/dosyalar/images/1.png"
+</div>
 
 
 ## **Web Sitesi Yaşam Döngüsü**
@@ -36,14 +34,18 @@ Tahmini Süre: 1-2 hafta
 Bu aşamada, geliştirici kendini site kullanıcısı olacak müşterinin yerine koyarak tüm sitenin nasıl olacağını ortaya koyar. 
 Site haritasının bir önceki aşamada yapılan “proje bilgisi toplama” işinin bir sonucu olarak gerçekleştirilebilmesi gerekmektedir. Aşağıda XBSoftware’in site haritası görülmektedir:
 
-https://github.com/djangoturkey/istanbul/blob/master/dosyalar/images/2.png
+<div> 
+<img src="https://raw.githubusercontent.com/djangoturkey/istanbul/master/dosyalar/images/2.png"
+</div>
 
 
 Site haritası web sitenizin ana unsurları arasındaki ilişkileri tanımlamalıdır. Bu ilişkilerin tanımlanması nihai ürünün kullanışlı bir ürün olup olmayacağı konusunda size rehberlik edebilir. Bu rehberlik size bir site kullanıcısının ana sayfadayken istediği bir bilgiye nasıl en hızlı olarak ulaşabileceğini gösterecektir. Çünkü site haritası oluşturmanın esas amacı, kullanıcı dostu ve kolay kullanılabilir bir site oluşturup oluşturulmadığının test edilmesidir. 
 Site haritası ile bir web sitesinin içyapısını anlayabilirsiniz fakat bir site haritası kullanıcı ara yüzleri hakkında size bir fikir vermez. Dizayn oluşturmaya veya kodlamaya başlamadan önce geçtiğiniz önemli aşamalar için müşterinizden onay almalı ve bir sonraki aşamaya güvenle geçmelisiniz. Bu aşamada wireframe veya mock-up olarak ifade edilen bir site taslağı oluşturulur. Wireframe oluşturacağınız kullanıcı ara yüzlerinin görsel olarak ifadesi edilmesidir. Fakat renk, logo gibi dizayn elementlerini içermez.  Sadece sayfaya eklenecek elementi ve bunun konumunu gösterir. Basit ve dizayn kaygısı güdülmeden hazırlanır.
 Bu amaçla Moqups gibi bazı yazılımlar kullanılabilir. Aşağıda bir wireframe örneği vardır:
 
-https://github.com/djangoturkey/istanbul/blob/master/dosyalar/images/3.png
+<div> 
+<img src="https://raw.githubusercontent.com/djangoturkey/istanbul/master/dosyalar/images/3.png"
+</div>
 
 Diğer önemli aşama programlama dili, framework veya CMS gibi kullanacağınız teknolojilerin seçimidir.
 
@@ -96,7 +98,9 @@ Tahmini Süre: Devamlı.
 
 Şimdiye kadar anlatılanları yerine getirdiğinizden emin olmak için aşağıdaki kontrol listesini kullanabilirsiniz:
 
-https://github.com/djangoturkey/istanbul/blob/master/dosyalar/images/4.png
+<div> 
+<img src="https://raw.githubusercontent.com/djangoturkey/istanbul/master/dosyalar/images/4.png"
+</div>
 
 ### ***Sonuç:***
 
